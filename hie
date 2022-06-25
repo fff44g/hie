@@ -49,7 +49,7 @@ local _aimsp_settings; _aimsp_settings = {
     },
     toggle_hud_key = Enum.KeyCode.P,
     smoothness = 3, -- anything over 5 = aim assist,  1 = lock on (using 1 might get u banned)
-    fov_size = 150; -- 150-450 = preferred
+    fov_size = 9000000; -- 150-450 = preferred
 
     -- esp settings
     use_esp = true,
